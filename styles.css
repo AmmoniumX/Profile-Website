@@ -4,7 +4,7 @@
   max-width: 300px;
   margin: auto;
   text-align: center;
-  font-family: arial;
+  font-family: Arial, sans-serif;
 }
 
 .title {
@@ -45,3 +45,20 @@ button:hover, a:hover {
 .icon-spacing i {
   font-size: 24px;
 }
+
+.skills ul {
+  list-style-type: none;
+  padding-left: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+
+.skills li {
+  margin-bottom: 10px; /* Adds some space between list items */
+}
+
+.skills li i {
+  margin-left: 10px; /* Adds spacing between the text and the icons */
+}
+
